@@ -6,11 +6,11 @@ Esse curso foi (está sendo) elaborado com muito carinho e seu _feedback_ é mui
 
 O treinamento tem duração prevista de 4 meses e contém os módulos linkados na lista abaixo. Claro que esse valor é baseado na nossa intuição do que é factível em 1 semana, mas podemos estar errados. Então, **definitivamente** não hesite em falar se estiver muito rápido ou devagar!
 
-1.  [Basics](1.%20Basics)
-1.  [Data Handling](2.%20Data%20Handling)
-1.  [Machine Learning](3.%20Machine%20Learning)
-1.  [Computer Vision](4.%20Computer%20Vision)
-1.  [Deep Learning](5.%20Deep%20Learning)
+1.  [Basics](01.%20Basics)
+1.  [Data Handling](02.%20Data%20Handling)
+1.  [Machine Learning](03.%20Machine%20Learning)
+1.  [Computer Vision](04.%20Computer%20Vision)
+1.  [Deep Learning](05.%20Deep%20Learning)
 
 ## Módulos
 
