@@ -10,6 +10,8 @@ Git não é difícil, mas no primeiro instante causa uma leve confusão, então 
 
 - Para consultar comandos, veja essa [Cheatsheet](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet/)
 
+- Se você não sabe usar Git e o GitHub, [essa página](https://try.github.io/) tem os recursos necessários.
+
 ## Python
 
 Para rapidamente refrescar a memória sobre conceitos básicos de Python, consulte o

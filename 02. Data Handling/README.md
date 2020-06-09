@@ -72,3 +72,10 @@ PS: Esse material não é nosso! Encontramos na internet durante nosso busca par
 
 [Iris](Exercises/10_Deleting/Iris)
 [Wine](Exercises/10_Deleting/Wine)
+
+
+## Copyright
+
+* [Exercícios](Exercises) - Copyright (c) 2018, [Guilherme Samora](https://github.com/guipsamora)
+    * [BSD 3-Clause](Exercies/LICENSE)
+
