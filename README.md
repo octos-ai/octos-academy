@@ -1,7 +1,8 @@
 # Octos Academy
 
 Bem vindo!! Nós devemos estar mais ansiosos do que você, afinal é nossa primeira vez!
-Esse curso foi (está sendo) elaborado com muito carinho e se _feedback_ é muito importante, você é o motivo pelo qual montamos tudo isso.
+
+Esse curso foi (está sendo) elaborado com muito carinho e seu _feedback_ é muito importante, pois você é o motivo pelo qual montamos tudo isso.
 
 O treinamento tem duração prevista de 4 meses e contém os módulos linkados na lista abaixo. Claro que esse valor é baseado na nossa intuição do que é factível em 1 semana, mas podemos estar errados. Então, **definitivamente** não hesite em falar se estiver muito rápido ou devagar!
 
