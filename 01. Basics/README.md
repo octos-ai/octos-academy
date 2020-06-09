@@ -17,8 +17,29 @@ Git não é difícil, mas no primeiro instante causa uma leve confusão, então 
 Para rapidamente refrescar a memória sobre conceitos básicos de Python, consulte o
 [Python Handbook](https://anandologdy.com/python-practice-book)
 
+Para uma rápida introdução a Numpy e Matplotlib, veja [esse tutorial](http://cs231n.github.io/python-numpy-tutorial/) (Ambas bibliotecas serão usadas extensivamente).
+
 Quer ir mais afundo em _Numpy_? Veja esse [Colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
+
+### Instalação
+
+Recomendamos que use o gerenciador de pacotes [Conda](https://docs.conda.io/) para instalar python e as bibliotecas. [Clique aqui](https://docs.conda.io/en/latest/miniconda.html) para ir à página de download do Miniconda. Certifique-se de baixar a versão Python 3.7.
+
+Se você está em uma máquina windows:
+
+- Abra o executável depois de terminar o download e siga as instruções.
+- Depois de completa a instalação, abra `prompt Anaconda` a partir do menu inicial. Isso vai abrir um terminal com o python habilitado.
+
+Se você está em uma máquina linux:
+
+- Abra o terminal e navegue até o diretório para onde foi baixadoo Anaconda
+
+- Mude a permissão do arquivo para que possa ser possível executá-lo. Se o nome do arquivo baixador for `Miniconda3-latest-Linux-x86_64.sh`, então use o seguinte comando:
+
+  `chmod a+x Miniconda3-latest-Linux-x86_64.sh`
+
+- Agora, rode o script de instalação `./Miniconda3-latest-Linux-x86_64.sh` e siga as instruções de instalação no terminal.
 
 ## Interactive Python
 
-Para entender melhor como funciona, quais são os comandos especiais e os atalhos, entre [aqui](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb#scrollTo=qPlt8_Btyemw)
+Para entender melhor como o Jupyter notebook funciona, quais são os comandos especiais e os atalhos, começe por [aqui](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb#scrollTo=qPlt8_Btyemw).
