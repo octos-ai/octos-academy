@@ -21,10 +21,10 @@ Para uma rápida introdução a Numpy e Matplotlib, veja [esse tutorial](http://
 
 Quer ir mais afundo em _Numpy_? Veja esse [Colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
 
-### Installation
+### Instalação
 
-Recomendamos que use anaconda para instalar python.
-We highly recommend using anaconda for installing python. [Clique](https://www.anaconda.com/download/) para ir à página de donwload do Anaconda's. Certifique-se de baixar a versão Python 3.6.
+Recomendamos que use o gerenciador de pacotes [Conda](https://docs.conda.io/) para instalar python e as bibliotecas. [Clique aqui](https://docs.conda.io/en/latest/miniconda.html) para ir à página de download do Miniconda. Certifique-se de baixar a versão Python 3.7.
+
 Se você está em uma máquina windows:
 
 - Abra o executável depois de terminar o download e siga as instruções.
@@ -34,12 +34,12 @@ Se você está em uma máquina linux:
 
 - Abra o terminal e navegue até o diretório para onde foi baixadoo Anaconda
 
-- Mude a permissão do arquivo para que possa ser possível executá-lo. Se o nome do arquivo baixador for `Anaconda3-5.1.0-Linux-x86_64.sh`, então use o seguinte comando:
+- Mude a permissão do arquivo para que possa ser possível executá-lo. Se o nome do arquivo baixador for `Miniconda3-latest-Linux-x86_64.sh`, então use o seguinte comando:
 
-  `chmod a+x Anaconda3-5.1.0-Linux-x86_64.sh`
+  `chmod a+x Miniconda3-latest-Linux-x86_64.sh`
 
-- Agora, rode o script de instalação `./Anaconda3-5.1.0-Linux-x86_64.sh` e siga as instruções de instalação no terminal.
+- Agora, rode o script de instalação `./Miniconda3-latest-Linux-x86_64.sh` e siga as instruções de instalação no terminal.
 
 ## Interactive Python
 
-Para entender melhor como o Jupyter notebook funciona, quais são os comandos especiais e os atalhos, começe por [aqui](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb#scrollTo=qPlt8_Btyemw)
+Para entender melhor como o Jupyter notebook funciona, quais são os comandos especiais e os atalhos, começe por [aqui](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb#scrollTo=qPlt8_Btyemw).
