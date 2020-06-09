@@ -7,6 +7,31 @@ Lembrem-se: o mais importante é aprender, não ser rápido!
 
 PS: Esse material não é nosso! Encontramos na internet durante nosso busca para montar o curso. Temos que tirar o chapéu para o autor.
 
+## Requirements
+
+    - numpy==1.13.3
+    - matplotlib==2.0.2
+    - seaborn==0.8.1
+    - pandas==1.0.4
+
+Crie um novo environment com todos os requerimentos necessários a partir do seguinte comando:
+
+    conda create -name <ENV_NAME> -file requirements.txt
+
+Depois de configurar o novo enviromnment, para ative o usando (windows)
+
+    activate <ENV_NAME>
+
+ou se você está em uma máquina linux
+
+    source activate <ENV_NAME>
+
+Agora já pode começar a trabalhar nos exercícios. Basta navegar até o diretório aonde estão localizados os exercícios e e lançar o jupyter notebook a partir do terminal usando o comando
+
+    jupyter notebook
+
+Alternativamente, use o [Google Colab](https://colab.research.google.com). Nele você não precisará instalar nada além de poder acessar de qualquer lugar! Basta fazer o upload do seu jupyter notebook ou então entrar diretamente com a URL do jupyter nesse repositório. Por outro lado, pode precisar fazer o upload de alguns dos materiais disponibilizados como os datasets.
+
 ## Lessons
 
 |                                                 |                                                                   |                             |
