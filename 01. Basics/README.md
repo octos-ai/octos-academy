@@ -1,3 +1,4 @@
+dasasdasij
 # Recursos Rápidos de Suporte para Conhecimentos de Base
 
 ## Git
