@@ -1,4 +1,4 @@
-dasasdasij
+Agora essa linha ta legal
 # Recursos Rápidos de Suporte para Conhecimentos de Base
 
 ## Git
