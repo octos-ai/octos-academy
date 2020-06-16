@@ -9,7 +9,7 @@ PS: Esse material não é nosso! Encontramos na internet durante nosso busca par
 
 ## Requirements
 
-    - numpy==1.13.3
+    - numpy==1.18.1
     - matplotlib==2.0.2
     - seaborn==0.8.1
     - pandas==1.0.4
