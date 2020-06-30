@@ -11,7 +11,7 @@ Este é um pequeno tutorial para você dar os passos iniciais no caminho para ap
 
 Esta é a ordem que deve ser seguida neste tutorial/guia. Cada parte do guia deve funcionar sozinha, mas elas também se complementam. 
 
-Criada e mantida pelo grande mestre [@mesquista](http://github.com/mesquita).
+Criada e mantida pelo grande mestre [@mesquita](http://github.com/mesquita).
 
 
 ## Recursos Rápidos de Suporte para Conhecimentos de Base
