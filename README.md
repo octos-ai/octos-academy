@@ -28,7 +28,7 @@ Primeiro, faça um [fork](https://guides.github.com/activities/forking/) desse r
 
 Depois disso, faça um clone em sua máquina local ou utilize o [Colab](https://colab.research.google.com/) para começar a realizar os exercícios.
 
-Caso você opte por desenvolver localmente, aqui na Octos utilizamos o [Visual Studio Code](https://code.visualstudio.com/) como IDE para o desenvolvimento. Outras opções são o [JetBrains](www.jetbrains.com), [Atom](https://github.com/atom), [Sublime Text 3](https://www.sublimetext.com/3) e até mesmo o [Vim](www.vim.org) (há quem goste, rs).
+Caso você opte por desenvolver localmente, aqui na Octos utilizamos o [Visual Studio Code](https://code.visualstudio.com/) como IDE para o desenvolvimento. Outras opções são o [JetBrains](https://www.jetbrains.com), [Atom](https://github.com/atom), [Sublime Text 3](https://www.sublimetext.com/3) e até mesmo o [Vim](https://www.vim.org) (há quem goste, rs).
 
 Agora está tudo pronto para começar a resolver os exercícios! 
 
