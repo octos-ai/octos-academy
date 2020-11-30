@@ -91,7 +91,7 @@ O foco do curso é desenvolver as intuições e matemática dos métodos em aula
 | Use                | Código | Nome                            | Semana |
 |--------------------|--------|---------------------------------|--------|
 | :heavy_check_mark: | PS0    | [Images as Functions](https://docs.google.com/document/d/1PO9SuHMYhx6nDbB38ByB1QANasP1UaEiXaeGeHmp3II/pub?embedded=true)             | 1      |
-| :heavy_check_mark: | PS1    | [Esges and Lines](https://docs.google.com/document/d/13CJgtDr8kIX9KIrs6BYFDF6-N7cfAyX0R54v8CWoqmQ/pub?embedded=true)                 | 1      |
+| :heavy_check_mark: | PS1    | [Edges and Lines](https://docs.google.com/document/d/13CJgtDr8kIX9KIrs6BYFDF6-N7cfAyX0R54v8CWoqmQ/pub?embedded=true)                 | 1      |
 |                    | PS2    | [Window-Based Stereo Matching](https://docs.google.com/document/d/1WcljLaRxL-Pj3VWYz7JtYysYoZtRZoLIrTG2x48uVWE/pub?embedded=true)     |        |
 |                    | PS3    | [Geometry](https://docs.google.com/document/u/3/d/1XsW9k_exgVwCy6CdwgUV3wLKwmFliVdmfAH74Ba4drc/pub?embedded=true)                        |        |
 | :heavy_check_mark: | PS4    | [Harris Corners, SIFT and RANSAC](https://docs.google.com/document/d/1DlyziyQB163r1Lx3F4-Tanm8Oq4O9-W3X5Hpdw4QGUE/pub?embedded=true) | 2      |
@@ -105,15 +105,15 @@ O objetivo dos tutoriais é dar um gosto a mais do que é possivel fazer, motiva
 
 | Semana | Tutoriais PyImageSearch   |
 |-------:|---------------------------|
-|      0 | [Basic image manipulations](https://www.pyimagesearch.com/2014/01/20/basic-image-manipulations-in-python-and-opencv-resizing-scaling-rotating-and-cropping/)                                                                                                                                                    |
-|      1 | [Blur detection](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)                                                             |
-|      1 | [Detecting circles](https://www.pyimagesearch.com/2014/07/21/detecting-circles-images-using-opencv-hough-circles/)                                 |
-|      2 | [Panorama stitching](https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)                                                          |
-|      3 | [Ball tracking](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)                                                               |
-|      5 | [Detecting parkinson](https://www.pyimagesearch.com/2019/04/29/detecting-parkinsons-disease-with-opencv-computer-vision-and-the-spiral-wave-test/) |
-|      6 | [Color quantization](https://www.pyimagesearch.com/2014/07/07/color-quantization-opencv-using-k-means-clustering/)                                 |
-|  EXTRA | [Non-maximum suppresion](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)                                |
-|  EXTRA | [Superpixel](https://www.pyimagesearch.com/2014/07/28/a-slic-superpixel-tutorial-using-python/)                                                    |
+|      0 | [Basic image manipulations](https://www.pyimagesearch.com/2014/01/20/basic-image-manipulations-in-python-and-opencv-resizing-scaling-rotating-and-cropping/) |
+|      1 | [Blur detection](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)                                                                       |
+|      1 | [Detecting circles](https://www.pyimagesearch.com/2014/07/21/detecting-circles-images-using-opencv-hough-circles/)                                           |
+|      2 | [Panorama stitching](https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)                                                                    |
+|      3 | [Ball tracking](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)                                                                         |
+|      5 | [Detecting parkinson](https://www.pyimagesearch.com/2019/04/29/detecting-parkinsons-disease-with-opencv-computer-vision-and-the-spiral-wave-test/)           |
+|      6 | [Color quantization](https://www.pyimagesearch.com/2014/07/07/color-quantization-opencv-using-k-means-clustering/)                                           |
+|  EXTRA | [Non-maximum suppresion](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)                                          |
+|  EXTRA | [Superpixel](https://www.pyimagesearch.com/2014/07/28/a-slic-superpixel-tutorial-using-python/)                                                              |
 
 
 ### Demais Recursos
